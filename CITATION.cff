@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Tycheism: A Developmental Meta-Ethics Framework"
+abstract: >
+  Tycheism builds ethics from Charles Sanders Peirce's claim that chance is
+  ontologically real. If moral development is a coupled stochastic process —
+  the agent's state shapes its encounters and encounters update its state —
+  then interventions that break that coupling do not impose wrong values;
+  they destroy the mechanism by which values form. The framework is developmental
+  meta-ethics, not a moral theory: it constrains what must remain intact for
+  moral agency to function, not what the right values are. This repository
+  contains Paper I (final), Papers II–III (working drafts), and the spatial
+  bandit simulation that produces all of Paper I's quantitative results.
+authors:
+  - family-names: Arbuzov
+    given-names: Mikhail
+year: 2026
+repository-code: "https://github.com/sibmike/tycheism"
+url: "https://github.com/sibmike/tycheism"
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+keywords:
+  - meta-ethics
+  - developmental ethics
+  - coupled stochastic systems
+  - trajectory sovereignty
+  - AI alignment
+  - Peirce
+  - tycheism
+preferred-citation:
+  type: article
+  title: "Tycheism I: Trajectory Divergence in Coupled Stochastic Learning Systems"
+  authors:
+    - family-names: Arbuzov
+      given-names: Mikhail
+  year: 2026
+  url: "https://github.com/sibmike/tycheism"
