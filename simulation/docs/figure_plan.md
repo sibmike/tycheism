@@ -119,7 +119,7 @@ encounters ─────┼─────────────┼───
 
 ## Figure 5: The Island Experiment — Trajectory Redirection
 
-**WHY:** This is the most visually compelling result and the conceptual centerpiece. A philosopher can look at this and immediately understand the Tycheism claim: "a single intervention redirects a life trajectory to a completely different outcome — permanently."
+**WHY:** This is the most visually compelling result and the conceptual centerpiece. A philosopher can look at this and immediately understand the Tychism claim: "a single intervention redirects a life trajectory to a completely different outcome — permanently."
 
 **WHAT it shows:** Three panels:
 

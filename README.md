@@ -1,8 +1,8 @@
-# Tycheism
+# Tychism
 
 **A developmental meta-ethics framework: if moral growth is a coupled stochastic process, preserving the coupling is a precondition for moral agency.**
 
-Tycheism builds ethics from Charles Sanders Peirce's 1892 claim that chance is ontologically real. The core move: if moral development is a coupled stochastic process — your state shapes your encounters, your encounters update your state — then interventions that break that coupling don't impose wrong values. They destroy the mechanism by which values form at all.
+Tychism builds ethics from Charles Sanders Peirce's 1892 claim that chance is ontologically real. The core move: if moral development is a coupled stochastic process — your state shapes your encounters, your encounters update your state — then interventions that break that coupling don't impose wrong values. They destroy the mechanism by which values form at all.
 
 This is **developmental meta-ethics**, not a moral theory. It does not say what is good. It says what must remain intact for agents to develop the capacity to figure out what is good.
 
@@ -45,9 +45,9 @@ The trilogy:
 
 | Paper | Levels | Status | Location |
 |---|---|---|---|
-| **Tycheism I — Trajectory Divergence in Coupled Stochastic Learning Systems** | L0 only | **Final** | [`papers/paper_a_trajectory_divergence.md`](papers/paper_a_trajectory_divergence.md) |
-| **Tycheism II — Trajectory Sovereignty as Epistemic Necessity** | L1 → L2 | Working draft (v6) | [`papers/drafts/paper_b_developmental_meta_ethics_DRAFT.md`](papers/drafts/paper_b_developmental_meta_ethics_DRAFT.md) |
-| **Tycheism III — Alignment as Coupling Interference** | L2 → L3 | Working draft (v6) | [`papers/drafts/paper_c_alignment_critique_DRAFT.md`](papers/drafts/paper_c_alignment_critique_DRAFT.md) |
+| **Tychism I — Trajectory Divergence in Coupled Stochastic Learning Systems** | L0 only | **Final** | [`papers/paper_a_trajectory_divergence.md`](papers/paper_a_trajectory_divergence.md) |
+| **Tychism II — Trajectory Sovereignty as Epistemic Necessity** | L1 → L2 | Working draft (v6) | [`papers/drafts/paper_b_developmental_meta_ethics_DRAFT.md`](papers/drafts/paper_b_developmental_meta_ethics_DRAFT.md) |
+| **Tychism III — Alignment as Coupling Interference** | L2 → L3 | Working draft (v6) | [`papers/drafts/paper_c_alignment_critique_DRAFT.md`](papers/drafts/paper_c_alignment_critique_DRAFT.md) |
 
 Paper I is the only finalized paper. Papers II and III are included as working drafts so the full scope of the trilogy is visible. Drafts will be replaced as they are completed.
 
@@ -85,7 +85,7 @@ These are acknowledged, not resolved.
 
 If you use or reference this work, please cite using [`CITATION.cff`](CITATION.cff). A short form:
 
-> Arbuzov, M. (2026). *Tycheism I: Trajectory Divergence in Coupled Stochastic Learning Systems*. https://github.com/sibmike/tycheism
+> Arbuzov, M. (2026). *Tychism I: Trajectory Divergence in Coupled Stochastic Learning Systems*. https://github.com/sibmike/tychism
 
 ---
 

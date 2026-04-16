@@ -6,7 +6,7 @@ local maximum to another. Coupling then locks the agent onto the new
 peak. Two agents with identical history converge to DIFFERENT local
 maxima — permanently.
 
-This is the strongest visual demonstration of the Tycheism claim:
+This is the strongest visual demonstration of the Tychism claim:
 a single intervention doesn't just change one decision — it redirects
 the entire downstream trajectory to a different attractor.
 
