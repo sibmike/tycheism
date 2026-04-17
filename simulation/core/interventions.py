@@ -1,5 +1,5 @@
 """
-Intervention operators for the Tychism spatial bandit model.
+Intervention operators for the Tycheism spatial bandit model.
 
 Six operators target different nodes of the coupling loop:
     Q -> pi (softmax) -> arm -> position -> coin flip -> Q update

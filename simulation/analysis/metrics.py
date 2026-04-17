@@ -1,5 +1,5 @@
 """
-Divergence metrics for the Tychism spatial bandit model.
+Divergence metrics for the Tycheism spatial bandit model.
 
 Measures the difference between paired agents (endogenous vs intervened)
 across three dimensions: position, Q-map (world model), and cumulative outcome.

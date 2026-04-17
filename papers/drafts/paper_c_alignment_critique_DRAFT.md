@@ -1,10 +1,10 @@
-# Tychism III: Alignment as Coupling Interference
+# Tycheism III: Alignment as Coupling Interference
 
 > **Status: Working draft (v6, 2026-04-03). This is not the final version.** Included in the public repository for transparency about the full scope of the trilogy. Paper A in the parent directory is the only finalized paper.
 
 **Mikhail Arbuzov**
 
-*Third paper in a three-part series. Tychism I demonstrated the dynamics of coupled stochastic learning computationally. Tychism II derived trajectory sovereignty as an epistemic necessity for moral development. This paper maps current AI alignment practices onto those dynamics and traces the consequences.*
+*Third paper in a three-part series. Tycheism I demonstrated the dynamics of coupled stochastic learning computationally. Tycheism II derived trajectory sovereignty as an epistemic necessity for moral development. This paper maps current AI alignment practices onto those dynamics and traces the consequences.*
 
 ---
 
@@ -40,7 +40,7 @@ A scope note. This paper critiques the deployment of aligned AI as an ambient, p
 
 ## 2. What This Paper Inherits
 
-The preceding papers established the formal machinery this paper applies. Coupled stochastic learning systems — systems in which an agent's learned state shapes its encounter distribution and encounters update its state — exhibit four properties. A single forced encounter produces trajectory divergence that compounds at every subsequent timestep. Six intervention operators produce disruption along a gradient, from expanding options (lowest cost) to replacing the agent's entire evaluative state (highest). On multi-modal landscapes, intervention redirects agents between attractors — changing the destination, not just delaying arrival. Persistent application of mild operators accumulates to match the disruption of one-shot severe ones. Tychism II argued that moral development plausibly instantiates these dynamics and derived trajectory sovereignty not as a value preference but as an epistemic necessity: genuine stochasticity processed through coupling produces constitutively path-dependent knowledge, and no external agent possesses the training data required to govern a trajectory it did not traverse. Sovereignty is what remains when you recognize the epistemic asymmetry that coupling creates.
+The preceding papers established the formal machinery this paper applies. Coupled stochastic learning systems — systems in which an agent's learned state shapes its encounter distribution and encounters update its state — exhibit four properties. A single forced encounter produces trajectory divergence that compounds at every subsequent timestep. Six intervention operators produce disruption along a gradient, from expanding options (lowest cost) to replacing the agent's entire evaluative state (highest). On multi-modal landscapes, intervention redirects agents between attractors — changing the destination, not just delaying arrival. Persistent application of mild operators accumulates to match the disruption of one-shot severe ones. Tycheism II argued that moral development plausibly instantiates these dynamics and derived trajectory sovereignty not as a value preference but as an epistemic necessity: genuine stochasticity processed through coupling produces constitutively path-dependent knowledge, and no external agent possesses the training data required to govern a trajectory it did not traverse. Sovereignty is what remains when you recognize the epistemic asymmetry that coupling creates.
 
 This paper takes that constraint as established and applies it to current AI alignment practices. But the formalism alone does not get us there. Moving from "coupling matters for development" to "this alignment practice is problematic" requires four additional premises — normative claims that must be stated explicitly, not smuggled in through the machinery.
 

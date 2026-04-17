@@ -1,5 +1,5 @@
 """
-Agent for the Tychism spatial bandit model.
+Agent for the Tycheism spatial bandit model.
 
 The agent navigates an L x L toroidal grid. At each cell, the encounter
 is a Bernoulli coin flip: +1 with probability p(x), -1 with probability

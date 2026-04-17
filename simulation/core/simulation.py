@@ -1,5 +1,5 @@
 """
-Simulation runner for the Tychism spatial bandit model.
+Simulation runner for the Tycheism spatial bandit model.
 
 Provides paired comparison experiments: run two identical agents on the
 same landscape, intervene on one at time t_intervene, measure trajectory

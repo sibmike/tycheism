@@ -1,6 +1,6 @@
-# Tychism Paper I — Simulation
+# Tycheism Paper I — Simulation
 
-Spatial bandit simulation that produces every quantitative result in *Tychism I: Trajectory Divergence in Coupled Stochastic Learning Systems*.
+Spatial bandit simulation that produces every quantitative result in *Tycheism I: Trajectory Divergence in Coupled Stochastic Learning Systems*.
 
 ## Install
 
@@ -19,7 +19,7 @@ An agent navigates an L×L toroidal grid. Each cell hides a coin with bias `p(x)
 3. **Flip the coin**: encounter `e = +1` with probability `p(x)`, `−1` otherwise
 4. **Update Q**: `Q(x) ← (1−α)·Q(x) + α·e`
 
-The coupling loop: `Q → softmax → arm → position → coin flip → Q update`. The coin flip is genuine ontological chance — Peirce's tychism. The agent never observes `p(x)` directly; it only learns through experience.
+The coupling loop: `Q → softmax → arm → position → coin flip → Q update`. The coin flip is genuine ontological chance — Peirce's tycheism. The agent never observes `p(x)` directly; it only learns through experience.
 
 The primary divergence metric is `D_Q`, the L2 norm of the difference between two agents' Q-maps.
 

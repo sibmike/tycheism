@@ -1,5 +1,5 @@
 """
-Landscape generation for the Tychism spatial bandit model.
+Landscape generation for the Tycheism spatial bandit model.
 
 Each landscape is a 2D grid where every cell has a hidden bias p(x) in [0, 1].
 p(x) is the probability that an encounter at cell x yields +1 (vs -1).

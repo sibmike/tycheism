@@ -1,10 +1,10 @@
-# Tychism II: Trajectory Sovereignty as Epistemic Necessity
+# Tycheism II: Trajectory Sovereignty as Epistemic Necessity
 
 > **Status: Working draft (v6, 2026-04-03). This is not the final version.** Included in the public repository for transparency about the full scope of the trilogy. Paper A in the parent directory is the only finalized paper.
 
 **Mikhail Arbuzov**
 
-*Second paper in a three-part series. Tychism I demonstrated the dynamics of coupled stochastic learning computationally. Tychism III maps AI alignment practices onto the intervention operators defined here.*
+*Second paper in a three-part series. Tycheism I demonstrated the dynamics of coupled stochastic learning computationally. Tycheism III maps AI alignment practices onto the intervention operators defined here.*
 
 ---
 
@@ -38,7 +38,7 @@ Resolving this discrimination requires knowing what moral development *is* — n
 
 ## 2. The Formal System
 
-Paper A (Tychism I) formalized the simplest coupled stochastic learning system: a spatial bandit navigating a grid of hidden coin biases, learning from outcomes, and using what it learned to choose where to go next. Two equations define the system:
+Paper A (Tycheism I) formalized the simplest coupled stochastic learning system: a spatial bandit navigating a grid of hidden coin biases, learning from outcomes, and using what it learned to choose where to go next. Two equations define the system:
 
 $$e_{t+1} \sim K(s_t) \qquad s_{t+1} = U(s_t, e_{t+1})$$
 
@@ -186,7 +186,7 @@ No human development is purely endogenous. Parenting, education, institutions, s
 
 This is developmental meta-ethics. It does not say what agents should value. It says what must remain intact for their evaluative development to be their own. Two agents with intact coupling can reach opposing moral conclusions — the veteran and the pacifist, the person who found meaning through religion and the person who found meaning through leaving it — and that opposition is not a failure of moral development. It is the signature that the encounters were real and the development was honest. The failure occurs when one agent's trajectory is governed by someone whose epistemic position does not include the path-dependent knowledge that trajectory would have produced.
 
-One implication at civilizational scale. If an AI system aligned to the consensus values of 1726 had mediated all human information access, it could have frozen downstream moral development. Not because those values were wrong by some external standard, but because the alignment designers of 1726 couldn't model the developmental needs of trajectories they'd never traversed. The risk is not misalignment. The risk is alignment applied by interveners who structurally lack the knowledge to govern the trajectories they are shaping. Tychism III develops this in full.
+One implication at civilizational scale. If an AI system aligned to the consensus values of 1726 had mediated all human information access, it could have frozen downstream moral development. Not because those values were wrong by some external standard, but because the alignment designers of 1726 couldn't model the developmental needs of trajectories they'd never traversed. The risk is not misalignment. The risk is alignment applied by interveners who structurally lack the knowledge to govern the trajectories they are shaping. Tycheism III develops this in full.
 
 ---
 
@@ -216,7 +216,7 @@ None of these observations have been made. The conditions remain open.
 
 **The framework is a constraint, not a theory.** It does not say what is good. It says what must remain intact for agents to develop the capacity to figure out what is good. It cannot resolve first-order moral disagreements. It can identify when the mechanism that would resolve them has been damaged.
 
-The Level 2 constraint has implications wherever interventions on moral development are systematic: AI alignment, education, institutional governance, parenting. Each domain requires additional normative premises beyond what this paper establishes. Tychism III takes up the AI alignment case, including the population-level ensemble argument — whether trajectory sovereignty is not just individually important but structurally necessary for collective moral robustness.
+The Level 2 constraint has implications wherever interventions on moral development are systematic: AI alignment, education, institutional governance, parenting. Each domain requires additional normative premises beyond what this paper establishes. Tycheism III takes up the AI alignment case, including the population-level ensemble argument — whether trajectory sovereignty is not just individually important but structurally necessary for collective moral robustness.
 
 ---
 
