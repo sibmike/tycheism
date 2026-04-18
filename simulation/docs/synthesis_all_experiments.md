@@ -17,7 +17,7 @@ An agent navigates an L×L toroidal grid. Each cell has a hidden coin bias p(x) 
 
 The coupling loop: Q → softmax → arm → position → coin flip → Q update.
 
-The coin flip is genuine ontological chance — aligned with Peirce's tycheism. The agent never observes p(x) directly; it only learns through experience.
+The coin flip is genuine ontological chance — aligned with Peirce's tychism. The agent never observes p(x) directly; it only learns through experience.
 
 ## Primary Metric: D_Q
 
