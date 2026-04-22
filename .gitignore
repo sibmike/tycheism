@@ -21,6 +21,18 @@ ENV/
 *.swo
 *~
 
+# Claude Code local settings (per-user, not for shared history)
+.claude/
+
+# LaTeX build artifacts (.tex and .pdf are committed for arXiv traceability)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
 # OS junk
 .DS_Store
 Thumbs.db
