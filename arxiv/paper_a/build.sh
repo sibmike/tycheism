@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Build Tycheism I for arXiv: Markdown -> LaTeX -> PDF
+# Build Paper A for arXiv: Markdown -> LaTeX -> PDF
 #
 # Requires: pandoc, pdflatex (MiKTeX or TeX Live)
 # Produces: paper_a.tex, paper_a.pdf
@@ -15,7 +15,7 @@ export PATH="$PATH:/c/Users/${USER:-${USERNAME:-}}/AppData/Local/Pandoc:/c/Users
 command -v pandoc  > /dev/null || { echo "ERROR: pandoc not found. Install: winget install JohnMacFarlane.Pandoc" >&2; exit 1; }
 command -v xelatex > /dev/null || { echo "ERROR: xelatex not found. Install MiKTeX: winget install MiKTeX.MiKTeX" >&2; exit 1; }
 
-TITLE="Tycheism I: Trajectory Divergence in Coupled Stochastic Learning Systems"
+TITLE="Trajectory Divergence in Coupled Stochastic Learning Systems"
 AUTHOR="Mikhail Arbuzov"
 
 # XeLaTeX is used because the paper contains Greek Unicode (Τύχη) that pdflatex

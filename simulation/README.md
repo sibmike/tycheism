@@ -1,6 +1,6 @@
-# Tycheism Paper I — Simulation
+# Tycheism Paper A — Simulation
 
-Spatial bandit simulation that produces every quantitative result in *Tycheism I: Trajectory Divergence in Coupled Stochastic Learning Systems*.
+Spatial bandit simulation that produces every quantitative result in *Trajectory Divergence in Coupled Stochastic Learning Systems*.
 
 ## Install
 

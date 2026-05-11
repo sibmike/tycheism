@@ -1,8 +1,9 @@
-# Tycheism I: Trajectory Divergence in Coupled Stochastic Learning Systems
+# Trajectory Divergence in Coupled Stochastic Learning Systems
 
 **Mikhail Arbuzov**
+*Independent Researcher*
 
-*First paper in a three-part series. The series argues that when development is honest and chance is real, moral agents can diverge irreducibly — both right, neither wrong, each a training signal the other cannot generate alone. Tycheism II argues moral development instantiates the dynamics demonstrated here. Tycheism III asks what current AI alignment practices do to the mechanism that makes that generative plurality possible.*
+*First paper in a three-part series. The series argues that when development is honest and chance is real, moral agents can diverge irreducibly — both right, neither wrong, each a training signal the other cannot generate alone. Paper II argues moral development instantiates the dynamics demonstrated here. Paper III asks what current AI alignment practices do to the mechanism that makes that generative plurality possible.*
 
 ---
 
@@ -54,7 +55,7 @@ This is the first paper in a three-part series. The framework is called *Tycheis
 
 Tycheism inherits from but is distinct from Charles Sanders Peirce's *tychism* (1892). Peirce's tychism is a cosmological claim: chance is ontologically real, laws of nature are evolved habits, and indeterminacy is a genuine feature of the universe. Tycheism takes this ontological-chance premise as foundational but develops a further claim Peirce did not approach: when genuine chance — Tyche's returns — is processed through coupled learning, it produces trajectories that are constitutively non-fungible. Over any meaningful horizon, no two agents receive the same sequence of returns, even on the same landscape with the same process. The trajectory each agent walks is singular. The spelling marks the difference: Peirce named the cosmological property; Tycheism is built on the figure who personifies it.
 
-The encounter at each grid cell is a genuine coin flip: $+1$ with probability $p(x)$, $-1$ with probability $1 - p(x)$. This is not Gaussian noise on a deterministic signal. The outcome is undetermined until the coin is flipped. The agent never observes $p(x)$ directly — it learns only by visiting cells and receiving what Tyche returns. The model instantiates the ontological-chance premise directly: the landscape is hidden, the coins are real, the agent's learning is shaped by genuine indeterminacy, amplified through the coupling loop. Tycheism II argues moral development is precisely this kind of process. Tycheism III examines what the ambient architecture of aligned AI does to it.
+The encounter at each grid cell is a genuine coin flip: $+1$ with probability $p(x)$, $-1$ with probability $1 - p(x)$. This is not Gaussian noise on a deterministic signal. The outcome is undetermined until the coin is flipped. The agent never observes $p(x)$ directly — it learns only by visiting cells and receiving what Tyche returns. The model instantiates the ontological-chance premise directly: the landscape is hidden, the coins are real, the agent's learning is shaped by genuine indeterminacy, amplified through the coupling loop. Paper II argues moral development is precisely this kind of process. Paper III examines what the ambient architecture of aligned AI does to it.
 
 ---
 
@@ -218,7 +219,7 @@ Berlin's value pluralism (1958) provides the philosophical framework this result
 
 The implication deserves emphasis. On any landscape with multiple valid attractors, coupling does not produce convergence to the "right" answer. It produces convergence to *an* answer — selected by the agent's own stochastic history, locked in by the agent's own learning. The divergence between two such agents is not noise that better reasoning would eliminate. It is the signature of intact coupling operating on a landscape where more than one coherent endpoint exists. Plurality is not the failure mode of coupled learning. It is the output of the mechanism working correctly.
 
-This result is confined, in this paper, to a spatial bandit with two islands. Whether real developmental landscapes — moral, epistemic, practical — are single-peaked or multi-modal is, at this point, genuinely an open empirical question, one this paper deliberately does not attempt to answer. But any domain where reasonable agents can end up in genuinely different places while doing everything right is a domain where this result applies. That is the question Tycheism II takes up.
+This result is confined, in this paper, to a spatial bandit with two islands. Whether real developmental landscapes — moral, epistemic, practical — are single-peaked or multi-modal is, at this point, genuinely an open empirical question, one this paper deliberately does not attempt to answer. But any domain where reasonable agents can end up in genuinely different places while doing everything right is a domain where this result applies. That is the question Paper II takes up.
 
 ### 4.5 Operator Ranking
 
@@ -270,7 +271,7 @@ The cascade mechanism is therefore: softmax amplification of Q differences $\to$
 
 ### 5.2 Implications and Limitations
 
-Each result maps to claims developed in subsequent papers. The cascade and its magnitude independence provide quantitative foundations for trajectory sovereignty. The dual cascade distinguishes what learning does from what the full coupling loop does. Attractor lock-in formalizes the mechanism by which intervention redirects developmental trajectories. The operator ranking and its duration dimension give the sovereignty cost table a quantitative basis. These connections are developed fully in Tycheism II and III.
+Each result maps to claims developed in subsequent papers. The cascade and its magnitude independence provide quantitative foundations for trajectory sovereignty. The dual cascade distinguishes what learning does from what the full coupling loop does. Attractor lock-in formalizes the mechanism by which intervention redirects developmental trajectories. The operator ranking and its duration dimension give the sovereignty cost table a quantitative basis. These connections are developed fully in Papers II and III.
 
 The results also connect to Campbell's evolutionary epistemology (1974): knowledge grows through blind variation and selective retention. "Blind" does not mean random — it means the variation is not pre-filtered by the selection criterion it will face. The coupling loop produces exactly this: the stochastic encounter is not selected by the learning criterion that will evaluate it. When an external intervention pre-filters encounters (Option Removal, Selection Bias), it introduces correlation between the variation source and the selection criterion — undermining the epistemic process Campbell identified as necessary for genuine knowledge growth. The operator taxonomy can therefore be read as measuring how much each intervention compromises the blindness condition.
 
@@ -282,7 +283,7 @@ If cascading divergence appears in a spatial bandit with binary encounters and l
 
 This paper does not claim that moral development is a spatial bandit, that AI alignment is an intervention operator, or that any normative conclusion follows from these results. The coupled dynamics described here are formal properties of a specific class of computational systems. Whether those properties instantiate in any particular empirical domain — psychology, education, AI governance — is an empirical and philosophical claim that must be argued separately, on its own evidence.
 
-That argument is precisely the work of Tycheism II.
+That argument is precisely the work of Paper II.
 
 ---
 
@@ -298,7 +299,7 @@ Kauffman's concept of the adjacent possible (2000) — the set of states reachab
 
 **Bias transmission between agents.** One agent trained on landscape A enforces its learned state (via Selection Bias or State Replacement) on a naive agent learning landscape B. Does the trained agent's bias persist in the learner's downstream trajectory after the intervention stops? And how does the learner's developing Q-map interact with the imposed prior — does it integrate, overwrite, or fragment? This is the computational model for inter-generational value transmission: an experienced agent shaping a developing one, on terrain the experienced agent has never seen.
 
-**Richer simulation mechanics.** The current model uses the simplest possible components at every node: discrete grid, binary encounters, linear Q-update, softmax policy. Each of these can be generalized — continuous state spaces, multi-outcome encounters, Bayesian updating, hierarchical representations, multi-agent communication, nonstationary landscapes. The question shifts from "does the cascade exist?" to "under what conditions does it persist, accelerate, or self-correct?" The multi-agent case is particularly relevant: agents sharing Q-values may accelerate convergence while coupling their error profiles — the population-level claim developed in Tycheism III.
+**Richer simulation mechanics.** The current model uses the simplest possible components at every node: discrete grid, binary encounters, linear Q-update, softmax policy. Each of these can be generalized — continuous state spaces, multi-outcome encounters, Bayesian updating, hierarchical representations, multi-agent communication, nonstationary landscapes. The question shifts from "does the cascade exist?" to "under what conditions does it persist, accelerate, or self-correct?" The multi-agent case is particularly relevant: agents sharing Q-values may accelerate convergence while coupling their error profiles — the population-level claim developed in Paper III.
 
 ---
 

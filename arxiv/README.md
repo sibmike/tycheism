@@ -72,7 +72,7 @@ Submit **in order A → B → C** on successive days so B and C can cite Paper A
 
 | Field | Paper A | Paper B | Paper C |
 |---|---|---|---|
-| **Title** | Tycheism I: Trajectory Divergence in Coupled Stochastic Learning Systems | Tycheism II: Trajectory Sovereignty as Epistemic Necessity | Tycheism III: Alignment as Coupling Interference |
+| **Title** | Trajectory Divergence in Coupled Stochastic Learning Systems | Trajectory Sovereignty as Epistemic Necessity | Alignment as Coupling Interference |
 | **Authors** | Mikhail Arbuzov | Mikhail Arbuzov | Mikhail Arbuzov |
 | **Primary category** | `cs.LG` | `cs.CY` | `cs.AI` |
 | **Cross-lists** | `cs.AI`, `nlin.AO` | `cs.AI` | `cs.CY`, `cs.LG` |

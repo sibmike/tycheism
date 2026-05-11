@@ -45,9 +45,9 @@ The trilogy:
 
 | Paper | Levels | Status | Location |
 |---|---|---|---|
-| **Tycheism I — Trajectory Divergence in Coupled Stochastic Learning Systems** | L0 only | **Final** | [`papers/paper_a_trajectory_divergence.md`](papers/paper_a_trajectory_divergence.md) |
-| **Tycheism II — Trajectory Sovereignty as Epistemic Necessity** | L1 → L2 | Working draft (v6) | [`papers/drafts/paper_b_developmental_meta_ethics_DRAFT.md`](papers/drafts/paper_b_developmental_meta_ethics_DRAFT.md) |
-| **Tycheism III — Alignment as Coupling Interference** | L2 → L3 | Working draft (v6) | [`papers/drafts/paper_c_alignment_critique_DRAFT.md`](papers/drafts/paper_c_alignment_critique_DRAFT.md) |
+| **Trajectory Divergence in Coupled Stochastic Learning Systems** (Paper A) | L0 only | **Final** | [`papers/paper_a_trajectory_divergence.md`](papers/paper_a_trajectory_divergence.md) |
+| **Trajectory Sovereignty as Epistemic Necessity** (Paper B) | L1 → L2 | Working draft (v6) | [`papers/drafts/paper_b_developmental_meta_ethics_DRAFT.md`](papers/drafts/paper_b_developmental_meta_ethics_DRAFT.md) |
+| **Alignment as Coupling Interference** (Paper C) | L2 → L3 | Working draft (v6) | [`papers/drafts/paper_c_alignment_critique_DRAFT.md`](papers/drafts/paper_c_alignment_critique_DRAFT.md) |
 
 Paper I is the only finalized paper. Papers II and III are included as working drafts so the full scope of the trilogy is visible. Drafts will be replaced as they are completed.
 
@@ -85,7 +85,7 @@ These are acknowledged, not resolved.
 
 If you use or reference this work, please cite using [`CITATION.cff`](CITATION.cff). A short form:
 
-> Arbuzov, M. (2026). *Tycheism I: Trajectory Divergence in Coupled Stochastic Learning Systems*. https://github.com/sibmike/tycheism
+> Arbuzov, M. (2026). *Trajectory Divergence in Coupled Stochastic Learning Systems*. https://github.com/sibmike/tycheism
 
 ---
 

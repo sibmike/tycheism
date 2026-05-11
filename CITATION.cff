@@ -29,7 +29,7 @@ keywords:
   - tycheism
 preferred-citation:
   type: article
-  title: "Tycheism I: Trajectory Divergence in Coupled Stochastic Learning Systems"
+  title: "Trajectory Divergence in Coupled Stochastic Learning Systems"
   authors:
     - family-names: Arbuzov
       given-names: Mikhail
